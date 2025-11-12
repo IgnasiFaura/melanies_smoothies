@@ -30,7 +30,6 @@ if ingredients_list:
 #    if name_on_order_list:
  #       name_on_order_string=''
     
-
     for fruit_chosen in ingredients_list:
   #      for name_chosen in name_on_order_list:
                 ingredients_string += fruit_chosen + ' '
